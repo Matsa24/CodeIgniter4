@@ -1,7 +1,7 @@
 <?php
 
 /**
- * CodeIgniter
+ * CodeIgniter 4
  *
  * An open source application development framework for PHP
  *
